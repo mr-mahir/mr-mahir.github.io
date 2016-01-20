@@ -1,0 +1,7 @@
+{
+    "useSideMenu": true,
+    "lineBreaks": "gfm",
+    "additionalFooterText": "Hello world!",
+    "anchorCharacter": "&#x2693;",
+    "title": "MDwiki - Markdown based wiki"
+}
