@@ -25,7 +25,6 @@ img {
 	border-radius: 50%;
 	padding: 10px;
 	width: 50%;
-	z-index: 2;
 	filter: brightness(70%);
 	display: block;
     margin: 10px auto;
@@ -48,9 +47,6 @@ img {
 
 ul {
 	padding: 0;
-}
-
-.list-name {
 	list-style: none;
 }
 
