@@ -1,0 +1,73 @@
+/* add your CSS here */
+
+body {
+	width: 300px;
+	border: 1px solid #ddd;
+	padding: 10px;
+	border-radius: 10px;
+	font-family: 'Open Sans', sans-serif;
+	margin: 20px auto;
+	box-shadow: 0 5px 10px rgba(80, 93, 132, 0.2);
+}
+
+h3 {
+	width: auto;
+	border: 1px solid #ddd;
+	padding: 10px;
+	border-radius: 10px;
+	font-family: 'Open Sans', sans-serif;
+	margin: 10px auto;
+	text-align: center;
+}
+
+img {
+	border: 1px solid #ddd;
+	border-radius: 50%;
+	padding: 10px;
+	width: 50%;
+	z-index: 2;
+	filter: brightness(70%);
+	display: block;
+    margin: 10px auto;
+}
+
+#info {
+	width: auto;
+	border: 1px solid #ddd;
+	padding: 10px;
+	border-radius: 10px;
+	font-family: 'Open Sans', sans-serif;
+	margin: 10px auto;
+}
+
+
+
+.fact {
+	font-style: italic;
+}
+
+ul {
+	padding: 0;
+}
+
+.list-name {
+	list-style: none;
+}
+
+.list-data {
+	font-weight: bold;
+}
+
+.btn {
+	display: block;
+	margin: 20px auto;
+	padding: 5px;
+	border-radius: 5px;
+	box-shadow: 0 5px 5px rgba(80, 93, 132, 0.2);
+	text-align: center;
+	text-decoration: none;
+	color: #ffffff;
+	font-weight: 700;
+	line-height: 25px;
+	background: #505d84;
+}
